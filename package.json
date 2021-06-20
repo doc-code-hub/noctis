@@ -2,7 +2,7 @@
    "name": "doc-noctis",
    "displayName": "Doc Noctis",
    "description": "Doc Noctis is a customized collection of light & dark themes with a well balanced blend of warm and cold colors",
-   "version": "3.0.0",
+   "version": "0.0.1",
    "publisher": "doc-extentions",
    "icon": "images/logo.png",
    "engines": {
@@ -21,9 +21,9 @@
    },
    "scripts": {
       "build": "node src/build.mjs",
-      "release:major---": "npm run build && git add . && git commit -m 🆕10.0.0🆕 && npm version major & vsce publish && git push",
-      "release:minor": "npm run build && git add . && git commit -m 10.39.0 && npm version minor & vsce publish && git push",
-      "release:patch": "npm run build && git add . && git commit -m 10.39.1 && npm version patch & vsce publish && git push"
+      "release:major---": "npm run build && git add . && git commit -m \"Version %npm_package_version%\" && npm version major & vsce publish && git push",
+      "release:minor": "npm run build && git add . && git commit -m \"Version %npm_package_version%\" && npm version minor & vsce publish && git push",
+      "release:patch": "npm run build && git add . && git commit -m \"Version %npm_package_version%\" && npm version patch & vsce publish && git push"
    },
    "categories": [
       "Themes",
