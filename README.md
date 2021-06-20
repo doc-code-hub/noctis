@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="170" src="https://raw.githubusercontent.com/liviuschera/noctis/master/images/logo.png" />
+   <img width="170" src="https://github.com/doc-code-hub/noctis/blob/master/images/logo.png?raw=true" />
 </p>
 
 <p align="center">
@@ -198,24 +198,3 @@ The color names were matched using the excellent online tools [Name that Color](
 
 Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ + X on Mac and then searching for "Noctis".
 
-## How to contribute
-
-Beginning with v7.21.0 the theme building process has been simplified. I started off with the idea used in [Lucy](https://marketplace.visualstudio.com/items?itemName=juliettepretot.lucy-vscode) theme and came up with this theme generator powered by Node.js. This will allow me or any contributor to easily add/suggest new theme variants or changes to the existing ones. In `./src/` folder you will find:
-
--  `syntax.mjs` &rarr; syntax tokens based on the language grammar installed
--  `colors.mjs` &rarr; the colors used for syntax highlighting
--  `./src/workbench/` &rarr; all eight theme versions containing Workbench/UI colors
-
-After you make a change in any of the above files you need to use `npm run build` command. The build output folder is `./themes/`
-
-Happy hacking!
-
-## Contributors
-
-| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) | [![Will Hoskings](https://avatars0.githubusercontent.com/u/49915996?s=85&v=4)](https://github.com/resynth1943) | [![Dang Trung Kien](https://avatars2.githubusercontent.com/u/6521018?s=85&v=4)](https://github.com/kiendang) | [![CertainLach](https://avatars3.githubusercontent.com/u/6235312?s=85&v=4)](https://github.com/CertainLach) |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 |                                [Will Hoskings](https://github.com/resynth1943)                                 |                                [Dang Trung Kien](https://github.com/kiendang)                                |                                [CertainLach](https://github.com/CertainLach)                                |
-
-## Credits
-
-This theme was inspired by the themes [VS Dark](https://github.com/Microsoft/vscode/tree/master/extensions/theme-defaults/themes), [Solarized](https://ethanschoonover.com/solarized/), [Vue](https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme), [Cobalt2](https://github.com/wesbos/cobalt2-vscode), [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax), [Dracula](https://draculatheme.com/visual-studio-code/), [Pure Syntax](https://atom.io/packages/pure-syntax) and many others.
