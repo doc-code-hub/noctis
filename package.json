@@ -40,57 +40,57 @@
    "contributes": {
       "themes": [
          {
-            "label": "Doc Noctis Lux",
+            "label": "Doctis Lux",
             "uiTheme": "vs",
             "path": "./themes/lux.json"
          },
          {
-            "label": "Doc Noctis Hibernus",
+            "label": "Doctis Hibernus",
             "uiTheme": "vs",
             "path": "./themes/hibernus.json"
          },
          {
-            "label": "Doc Noctis Lilac",
+            "label": "Doctis Lilac",
             "uiTheme": "vs",
             "path": "./themes/lilac.json"
          },
          {
-            "label": "Doc Noctis",
+            "label": "Doctis",
             "uiTheme": "vs-dark",
             "path": "./themes/noctis.json"
          },
          {
-            "label": "Doc Noctis Azureus",
+            "label": "Doctis Azureus",
             "uiTheme": "vs-dark",
             "path": "./themes/azureus.json"
          },
          {
-            "label": "Doc Noctis Bordo",
+            "label": "Doctis Bordo",
             "uiTheme": "vs-dark",
             "path": "./themes/bordo.json"
          },
          {
-            "label": "Doc Noctis Obscuro",
+            "label": "Doctis Obscuro",
             "uiTheme": "vs-dark",
             "path": "./themes/obscuro.json"
          },
          {
-            "label": "Doc Noctis Sereno",
+            "label": "Doctis Sereno",
             "uiTheme": "vs-dark",
             "path": "./themes/sereno.json"
          },
          {
-            "label": "Doc Noctis Uva",
+            "label": "Doctis Uva",
             "uiTheme": "vs-dark",
             "path": "./themes/uva.json"
          },
          {
-            "label": "Doc Noctis Viola",
+            "label": "Doctis Viola",
             "uiTheme": "vs-dark",
             "path": "./themes/viola.json"
          },
          {
-            "label": "Doc Noctis Minimus",
+            "label": "Doctis Minimus",
             "uiTheme": "vs-dark",
             "path": "./themes/minimus.json"
          }
