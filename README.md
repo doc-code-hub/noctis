@@ -8,5 +8,6 @@
 
 ## Doctis is a customized version of **Noctis** Theme.
 
+Just a few minor changes...
 
 Copyright (c) 2018 Liviu Schera
