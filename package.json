@@ -2,7 +2,7 @@
    "name": "doctis",
    "displayName": "Doctis",
    "description": "Doctis is a customized version of Notcis Theme.",
-   "version": "0.0.5",
+   "version": "1.0.0",
    "publisher": "doc-extentions",
    "icon": "images/logo.png",
    "engines": {
