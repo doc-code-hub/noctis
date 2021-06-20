@@ -2,7 +2,7 @@
    "name": "doc-noctis",
    "displayName": "Doc Noctis",
    "description": "Doc Noctis is a customized collection of light & dark themes with a well balanced blend of warm and cold colors",
-   "version": "0.0.4",
+   "version": "0.0.5",
    "publisher": "doc-extentions",
    "icon": "images/logo.png",
    "engines": {
