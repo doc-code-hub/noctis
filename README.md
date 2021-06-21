@@ -2,12 +2,21 @@
    <img width="170" src="https://github.com/doc-code-hub/noctis/blob/master/images/logo.png?raw=true" />
 </p>
 
-<!-- <p align="center">
-   <img width="400" src="https://github.com/liviuschera/noctis/raw/master/images/noctisLogo.png" />
-</p> -->
+## Doctis is a customized version of **Noctis** Theme (Developed by Liviu Schera).
 
-## Doctis is a customized version of **Noctis** Theme.
+Changes from the original Noctis theme:
 
-Just a few minor changes...
+- Grape Theme: Darker background color, for greater contrast
+
+
+### Reference to the source
+
+Doctis is a substitute for Noctis, modified only minimally.
+
+All credit goes to the original developer: Liviu Schera
+
+Reference to the original extension: https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
+
+Reference to the original repository: https://github.com/liviuschera/noctis
 
 Copyright (c) 2018 Liviu Schera
