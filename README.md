@@ -9,7 +9,7 @@ Changes from the original Noctis theme:
 - Grape Theme: Darker background color, for greater contrast
 
 
-### Reference to the source
+## Reference to the source
 
 Doctis is a substitute for Noctis, modified only minimally.
 
