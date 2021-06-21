@@ -6,7 +6,7 @@
 
 Changes from the original Noctis theme:
 
-- Grape Theme: Darker background color, for greater contrast
+- Uva Theme: Darker background color, for greater contrast
 
 
 ## Reference to the source
