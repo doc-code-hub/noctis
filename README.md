@@ -7,6 +7,7 @@
 Changes from the original Noctis theme:
 
 - Uva Theme: Darker background color, for greater contrast
+- Viola Theme: Darker background color, for greater contrast
 
 
 ## Reference to the source

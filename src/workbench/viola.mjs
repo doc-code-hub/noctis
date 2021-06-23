@@ -9,7 +9,7 @@ export default syntax => ({
     descriptionForeground: "#996bc7",
     errorForeground: "#e34e1c",
     "widget.shadow": "#00000044",
-    "editor.background": "#30243d",
+    "editor.background": "#311D4A",
     "editor.foreground": "#ccbfd9",
     "editorLineNumber.foreground": "#665973",
     "editorLineNumber.activeForeground": "#996bc7",
@@ -22,7 +22,7 @@ export default syntax => ({
     // ---------------------------
     // Activity Bar
     // ---------------------------
-    "activityBar.background": "#30243d",
+    "activityBar.background": "#311D4A",
     "activityBar.dropBackground": "#996bc765",
     "activityBar.border": "#1c1226",
     "activityBar.foreground": "#8767a8",
@@ -46,14 +46,14 @@ export default syntax => ({
     // Status Bar
     // ---------------------------
     "statusBar.foreground": "#8767a8",
-    "statusBar.background": "#30243d",
+    "statusBar.background": "#311D4A",
     "statusBar.border": "#1c1226",
-    "statusBar.debuggingBackground": "#30243d",
+    "statusBar.debuggingBackground": "#311D4A",
     "statusBar.debuggingForeground": "#ff80ac50",
     "statusBar.debuggingBorder": "#ff80acaf",
     "statusBar.noFolderForeground": "#9987ab",
-    "statusBar.noFolderBackground": "#30243d",
-    "statusBar.noFolderBorder": "#30243d",
+    "statusBar.noFolderBackground": "#311D4A",
+    "statusBar.noFolderBorder": "#311D4A",
     "statusBarItem.activeBackground": "#734b9b88",
     "statusBarItem.hoverBackground": "#422b5a",
     "statusBarItem.prominentBackground": "#21162d",
@@ -79,11 +79,11 @@ export default syntax => ({
     // ---------------------------
     // Errors and warnings
     // ---------------------------
-    "editorError.border": "#30243d",
+    "editorError.border": "#311D4A",
     "editorError.foreground": "#e34e1c",
-    "editorWarning.border": "#30243d",
+    "editorWarning.border": "#311D4A",
     "editorWarning.foreground": "#e69533",
-    "editorInfo.border": "#30243d",
+    "editorInfo.border": "#311D4A",
     "editorInfo.foreground": "#bf8ef1",
     "editorHint.border": "#49e9a600",
     "editorHint.foreground": "#49e9a6",
@@ -102,7 +102,7 @@ export default syntax => ({
     // ---------------------------
     // Editor Tabs
     // ---------------------------
-    "tab.activeBackground": "#30243d",
+    "tab.activeBackground": "#311D4A",
     "tab.unfocusedActiveBackground": "#302b36",
     "tab.activeForeground": "#bf8ef1",
     "tab.border": "#1c1226",
@@ -112,23 +112,23 @@ export default syntax => ({
     "tab.unfocusedInactiveForeground": "#b3a5c0",
     "tab.activeBorderTop": "#bf8ef1",
     "tab.activeModifiedBorder": "#49e9a6",
-    "tab.activeBorder": "#30243d",
-    "tab.unfocusedActiveBorder": "#30243d",
+    "tab.activeBorder": "#311D4A",
+    "tab.unfocusedActiveBorder": "#311D4A",
     "tab.unfocusedHoverBackground": "#996bc721",
     // ---------------------------
     // Text Colors
     // ---------------------------
-    "textBlockQuote.background": "#30243d",
+    "textBlockQuote.background": "#311D4A",
     "textBlockQuote.border": "#8767a8",
-    "textCodeBlock.background": "#30243d",
+    "textCodeBlock.background": "#311D4A",
     "textLink.activeForeground": "#bf8ef1",
     "textLink.foreground": "#bf8ef1",
     "textPreformat.foreground": "#ffc180",
-    "textSeparator.foreground": "#30243d",
+    "textSeparator.foreground": "#311D4A",
     // ---------------------------
     // Welcome Page
     // ---------------------------
-    "walkThrough.embeddedEditorBackground": "#30243d",
+    "walkThrough.embeddedEditorBackground": "#311D4A",
     "welcomePage.buttonBackground": "#291d35",
     "welcomePage.buttonHoverBackground": "#3d2e4d",
     // ---------------------------
@@ -163,7 +163,7 @@ export default syntax => ({
     // ---------------------------
     // Gutter
     // ---------------------------
-    "editorGutter.background": "#30243d",
+    "editorGutter.background": "#311D4A",
     "editorGutter.addedBackground": "#8ce99a",
     "editorGutter.deletedBackground": "#e34e1c",
     "editorGutter.modifiedBackground": "#ffc180",
@@ -219,7 +219,7 @@ export default syntax => ({
     // ---------------------------
     // Merge Conflicts
     // ---------------------------
-    "merge.border": "#30243d00",
+    "merge.border": "#311D4A00",
     "merge.currentContentBackground": "#85f1ff22",
     "merge.currentHeaderBackground": "#85f1ff44",
     "merge.incomingContentBackground": "#9d92f222",
@@ -229,7 +229,7 @@ export default syntax => ({
     "editorOverviewRuler.currentContentForeground": "#85f1ff44",
     "editorOverviewRuler.incomingContentForeground": "#9d92f244",
     "editorOverviewRuler.commonContentForeground": "#ffc18044",
-    "editorOverviewRuler.border": "#30243d",
+    "editorOverviewRuler.border": "#311D4A",
     // ---------------------------
     // Notification Colors
     // ---------------------------
@@ -249,8 +249,8 @@ export default syntax => ({
     // ---------------------------
     // Debug
     // ---------------------------
-    "debugToolBar.background": "#30243d",
-    "debugExceptionWidget.background": "#30243d",
+    "debugToolBar.background": "#311D4A",
+    "debugExceptionWidget.background": "#311D4A",
     "debugExceptionWidget.border": "#8767a8",
     // ---------------------------
     // Extensions
@@ -351,7 +351,7 @@ export default syntax => ({
     // Breadcrumbs
     // ---------------------------
     "breadcrumb.foreground": "#b3a5c0",
-    "breadcrumb.background": "#30243d",
+    "breadcrumb.background": "#311D4A",
     "breadcrumb.focusForeground": "#bf8ef1",
     "breadcrumb.activeSelectionForeground": "#edebff",
     "breadcrumbPicker.background": "#3d2e4d",
@@ -359,9 +359,9 @@ export default syntax => ({
     // Title bar
     // Note: These colors are currently only supported on macOS.
     // ---------------------------
-    "titleBar.activeBackground": "#30243d",
+    "titleBar.activeBackground": "#311D4A",
     "titleBar.activeForeground": "#ccbfd9",
-    "titleBar.inactiveBackground": "#30243d",
+    "titleBar.inactiveBackground": "#311D4A",
     "titleBar.inactiveForeground": "#b3a5c0",
     // ---------------------------
     // Custom title bar and menus
@@ -380,9 +380,9 @@ export default syntax => ({
     // Snippets
     // ---------------------------
     "editor.snippetTabstopHighlightBackground": "#21162d",
-    "editor.snippetTabstopHighlightBorder": "#30243d",
+    "editor.snippetTabstopHighlightBorder": "#311D4A",
     "editor.snippetFinalTabstopHighlightBackground": "#21162d",
-    "editor.snippetFinalTabstopHighlightBorder": "#30243d",
+    "editor.snippetFinalTabstopHighlightBorder": "#311D4A",
     // ---------------------------
     // Minimap
     // ---------------------------
@@ -392,7 +392,7 @@ export default syntax => ({
     "minimapGutter.addedBackground": "#16b673",
     "minimapGutter.modifiedBackground": "#49e9a6",
     "minimapGutter.deletedBackground": "#e34e1c",
-    "minimap.background": "#30243d99"
+    "minimap.background": "#311D4A99"
   },
   tokenColors: syntax
 });
