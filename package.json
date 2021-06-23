@@ -2,7 +2,7 @@
    "name": "doctis",
    "displayName": "Doctis",
    "description": "Doctis is a customized version of Noctis Theme.",
-   "version": "1.0.8",
+   "version": "1.0.9",
    "publisher": "doc-extentions",
    "icon": "images/logo.png",
    "engines": {
