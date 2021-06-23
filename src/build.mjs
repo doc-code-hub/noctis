@@ -7,6 +7,7 @@ import obscuro from "./workbench/obscuro.mjs";
 import sereno from "./workbench/sereno.mjs";
 import minimus from "./workbench/minimus.mjs";
 import bordo from "./workbench/bordo.mjs";
+import redflow from "./workbench/redflow.mjs";
 import uva from "./workbench/uva.mjs";
 import viola from "./workbench/viola.mjs";
 import { buildAllThemes } from "./buildAllThemes.mjs";
@@ -21,6 +22,7 @@ export const THEMES = [
    { sereno: sereno },
    { minimus: minimus },
    { bordo: bordo },
+   { redflow: redflow },
    { uva: uva },
    { viola: viola }
 ];

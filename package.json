@@ -70,6 +70,11 @@
             "path": "./themes/bordo.json"
          },
          {
+            "label": "Doctis Red Flow",
+            "uiTheme": "vs-dark",
+            "path": "./themes/redflow.json"
+         },
+         {
             "label": "Doctis Obscuro",
             "uiTheme": "vs-dark",
             "path": "./themes/obscuro.json"
